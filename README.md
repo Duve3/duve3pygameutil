@@ -23,4 +23,4 @@ pip install duve3pygameutil
 `Duve3PygameUtil` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
 
 ## Documentation
-will add eventually... (probably gonna be readthedocs.io link)
+will add eventually... (probably gonna be readthedocs.io link) for now you can just go through the source code to figure out what stuff does.
