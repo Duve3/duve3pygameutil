@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER IN USE, PLEASE USE [pygame_wrapper](https://github.com/Duve3/Pygame-wrapper) INSTEAD!
+
 # Duve3PygameUtil
 [![Hatch project](https://img.shields.io/badge/%F0%9F%A5%9A-Hatch-4051b5.svg)](https://github.com/pypa/hatch)
 
